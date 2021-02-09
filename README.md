@@ -6,7 +6,8 @@ Credit cards are one of the most popular forms of payment for both online and in
 
 # Motivation:
 The need for the fraud detection system is significant for both the cardholders and the credit card companies. Fraud transactions force credit card companies to give replacement cards, customer support for the users and can cause damage to their reputation. With the cost of these steps rising and declining cardholder’s trust, it becomes necessary for them to predict and detect the fraud at the time of the transaction itself.
-Data Set:
+
+# Data Set:
 The data set for this project is collected by ULB Machine Learning Group and it has the credit card transactions of the European cardholders for the month of September in 2013. This data set is highly unbalanced, the positive class of fraud accounts for 0.172% of all transactions. And most of the features are not disclosed because of the confidentiality of the cardholders. The data set is available in the link below: https://datahub.io/machine-learning/creditcard#resource-creditcard_zip
  
 # Background:
